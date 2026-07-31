@@ -20,38 +20,56 @@ Ubicación: Bogotá, Colombia
 ## FORMACIÓN ACADÉMICA
 
 ### Educación Formal
-- **Maestría en curso:** Innovación en la Gerencia de Proyectos (Universidad Nacional, Colombia)
-- **Especialista:** Gerencia de Proyectos
-- **Profesional:** Administración Financiera
+- **Maestría en curso:** Innovación en la Gerencia de Proyectos (Corporación Universitaria Minuto de Dios - UNIMINUTO)
+- **Especialista:** Gerencia de Proyectos (UNIMINUTO)
+- **Profesional:** Administración Financiera (Universidad de Córdoba, 2007)
+- **Tecnólogo:** Gestión Bancaria y Financiera (Universidad de Córdoba, 2005)
 
 ### Educación Continua
+- **Diplomado en Fortalecimiento de Liderazgo (2025):** Politécnico Colombiano
 - **Design Thinking (2025):** Cermint
-- **Diplomados completados:** 8+
-- **Formaciones especializadas:** Múltiples en finanzas, gerencia pública, asociatividad, desarrollo territorial
+- **Planeación Estratégica de la Innovación en Sistemas Territoriales (2024):** Universidad de Córdoba
+- **Diplomado en Emprendimiento y Asociatividad (2019):** Universidad Cooperativa de Colombia
+- **Diplomado en Estrategias de Comercialización (2019):** Universidad Cooperativa de Colombia
+- **Diplomado en Construcción de Paz Local (2016):** Instituto Interamericano de Derechos Humanos y Unidad de Víctimas
+- **Diplomado en Evaluación Financiera de Proyectos de Inversión (2007):** Universidad de Córdoba
+- **Cursos SENA:** Análisis Financiero, Formulación y Evaluación de Proyectos, Emprendedor en Cultivos Perennes
+- **Formaciones especializadas:** Múltiples en finanzas, gerencia pública, asociatividad, desarrollo territorial, sostenibilidad
 
 ---
 
 ## EXPERIENCIA PROFESIONAL
 
+### Cargo Actual (2025-2026)
+
+**Asesor - Grupo Social, Fondo de Programas Especiales para la Paz (Fondo Paz - DAPRE)**
+
+Desde octubre de 2025, apoya la ejecución de planes, programas y proyectos del Fondo Paz en el marco de "Reparación Transformadora, una Apuesta de Paz Total", incluyendo:
+- Supervisión técnica de convenios interadministrativos
+- Asesoría a la Dirección del Fondo en asuntos administrativos, jurídicos, financieros y sociales
+- Participación en comités de seguimiento
+- Proyección y trámite de solicitudes según especificaciones técnicas
+
 ### Escala y Alcance
 
 | Métrica | Cantidad | Geografía |
 |---|---|---|
-| **Asociaciones creadas** | 60+ | Colombia |
-| **Asociaciones de segundo nivel** | 2 | Regional |
-| **Organizaciones asesoradas** | 200+ | 7+ departamentos |
-| **Proyectos formulados y ganados** | 30+ | Nacional |
-| **Personas impactadas (estimado)** | 3.000+ | Colombia |
+| **Años de experiencia verificable** | 18+ | Colombia |
+| **Organizaciones asesoradas y transformadas** | 60+ | 7 departamentos |
+| **Asociaciones de segundo nivel creadas** | 2 | Regional |
+| **Proyectos formulados y ganados** | 50+ | Nacional |
+| **Tasa de aprobación de proyectos** | 85-100% | Nacional |
+| **Personas impactadas (directo)** | 3.000+ | Colombia |
+| **Beneficiarios indirectos (familias)** | 10.000+ | Colombia |
 
 ### Departamentos de Cobertura
 - Antioquia
 - Córdoba
 - Sucre
 - Bolívar
-- Nariño
-- Valle del Cauca
-- Amazonas
-- Otros
+- Chocó
+- Norte de Santander
+- Arauca
 
 ### Sectores de Especialidad
 
@@ -81,12 +99,12 @@ Ubicación: Bogotá, Colombia
 
 ### Proyectos de Alto Impacto
 
-**Proyecto más reciente (2025):**
-- **Financiador:** Agencia de Desarrollo Rural (ADR)
-- **Monto:** $6.000 millones
-- **Alcance:** 400 hectáreas de cacao
-- **Municipios:** 5 municipios de Urabá
-- **Beneficiarios:** 50+ asociados directos; 200+ indirectos
+**Proyecto más reciente (2024-2025):**
+- **Empleador:** Alcaldía de San Pedro de Urabá, Antioquia
+- **Rol:** Profesional Socioempresarial
+- **Actividades:** Formulación de proyectos productivos agropecuarios bajo MGA; fortalecimiento de organizaciones productivas; formación en gestión empresarial y comercialización
+- **Cofinanciadores abordados:** Entidades como Agencia de Desarrollo Rural (ADR) para estructura de proyectos que requieren cofinanciación
+- **Beneficiarios:** Comunidades rurales de la zona de Urabá
 
 **Otros proyectos significativos (muestra):**
 - Múltiples proyectos de acceso a tierra
@@ -176,8 +194,9 @@ El Sistema ODYRA (Escuela de Pensamiento ODYRA, 2026) nace de sistematizar 18 a�
 
 ### Institucional
 - Asesor de Secretarías de Agricultura (municipales)
-- Asesor de Agencia de Desarrollo Rural (ADR)
-- Colaborador de ONGs de desarrollo
+- Formulador de proyectos con cofinanciación de entidades como Agencia de Desarrollo Rural (ADR), Fondos de Cooperación Internacional, Fondos Especiales para la Paz
+- Colaborador de ONGs de desarrollo (UNODC, Alianza Fiduciaria, Fundación PRACCIS)
+- Asesor actual: Fondo de Programas Especiales para la Paz (Fondo Paz - DAPRE, 2025-2026)
 - Formador de consultores en universidades
 
 ### Académico
